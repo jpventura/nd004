@@ -223,6 +223,11 @@ bh_unicode_properties.cache
 ## https://packagecontrol.io/packages/sublime-github
 GitHub.sublime-settings
 
+# TextMate
+*.tmproj
+*.tmproject
+tmtags
+
 # VSCode
 !.vscode/extensions.json
 !.vscode/launch.json
