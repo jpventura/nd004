@@ -2,12 +2,11 @@
 __pycache__
 venv
 
-# OS generated files #
-######################
+# OS X
 .DS_Store
 .DS_Store?
-._*
 .Spotlight-V100
 .Trashes
-ehthumbs.db
+._*
 Thumbs.db
+ehthumbs.db
