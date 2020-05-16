@@ -1,3 +1,5 @@
+[![codeclimate-maintainability-img]][codeclimate-maintainability-url]
+
 # [Full Stack Web Developer](https://www.udacity.com/course/nd0044)
 The goal of the Full Stack Web Developer Nanodegree program is to equip learners with the unique skills they need to build database-backed APIs and web applications. A graduate of this program will be able to design and build databases for software applications, create and deploy database-backed web APIs, and secure and manage user authentication and access control for an application backend. Students will also learn how to deploy a Flask-based web application to the cloud using Docker and Kubernetes.
 
@@ -14,3 +16,6 @@ Implement authentication and authorization in Flask and understand how to design
 Develop an understanding of containerized environments, use Docker to share and store containers, and deploy a Docker container to a Kubernetes cluster using AWS
 
 ## [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821)
+
+[codeclimate-maintainability-img]: https://api.codeclimate.com/v1/badges/aaf8753fbacfb3aed4c0/maintainability
+[codeclimate-maintainability-url]: https://codeclimate.com/github/jpventura/nd004/maintainability
