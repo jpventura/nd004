@@ -1,3 +1,7 @@
+[submodule "syllabus/ud330"]
+	path = syllabus/ud330
+	url = git@github.com:jpventura/ud330.git
+
 [submodule "vagrant"]
 	path = vagrant
 	url = https://github.com/udacity/fullstack-nanodegree-vm
